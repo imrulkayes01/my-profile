@@ -134,7 +134,7 @@
   font-weight: 400;
   padding-top: 1rem;
   font-size: 50px;
-  color: red;
+  color: tomato;
 }
 
 @media screen and (max-width: 430px) {
@@ -156,7 +156,7 @@
 .manu button {
   font-family: "Josefin Sans", sans-serif;
   position: absolute;
-  box-shadow: 0px 0px 5px #000, 0px 0px 15px #494945;
+  box-shadow: 0px 0px 5px #888080, 0px 0px 15px #dfdfd7;
   background: rgb(139, 131, 218);
   padding: 8px 25px;
   border-radius: 25px;
@@ -165,6 +165,7 @@
   cursor: pointer;
   margin-top: 2.3rem;
   right: 6px;
+  color: wheat;
 }
 
 .manu button:hover {
